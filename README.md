@@ -13,4 +13,4 @@ Net Zone (FINAL - PUSH 4 - SLOW)
 - Our autonomous code for when we start near the net zone
  
 Observation Zone (FINAL - PUSH 3 - HIGHVFIX)
-- Our autonomous code for when we start near the observation zone without bumpers intalled on the robot
+- Our autonomous code for when we start near the observation zone
